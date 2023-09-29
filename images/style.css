@@ -1,14 +1,16 @@
 body {
-    background-color: rgba(0, 255, 170, 0.471);
-    font-family: Arial;
-    }
+    background-color: rgba(128, 128, 128, 0.203);
+    font-family: helvetica;
+        }
 
 header {
-    font-family: Arial;
+    font-family: Helvetica;
+    font-style: italic;
     font-size: x-large;
     text-align: center;
     padding-top: 1%; 
-    }
+    color: rgb(0, 0, 139);
+        }
 h2 {
     padding: .5%;
 }
