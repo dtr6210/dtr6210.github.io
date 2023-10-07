@@ -1,16 +1,28 @@
 body {
-    background-color: rgba(128, 128, 128, 0.203);
-    font-family: helvetica;
-        }
+  color: azure;
+  font-weight: bold;
+  font-family: helvetica;
+  background-image: url(/images/pexels-photo-164005.jpeg);
+  background-size: cover;
+}
 
 header {
-    font-family: Helvetica;
-    font-style: italic;
-    font-size: x-large;
-    text-align: center;
-    padding-top: 1%; 
-    color: rgb(0, 0, 139);
-        }
-h2 {
-    padding: .5%;
+  font-family: Helvetica;
+  font-style: italic;
+  font-size: x-large;
+  text-align: center;
+  padding-top: 1%;
+  color: azure;
+  border-bottom: 10px double;
+  border-top: 10px double;
+  font-weight: bold;
+  background-color: rgba(165, 42, 42, 0.399);
 }
+
+footer {
+    text-align: center;
+    border: 5px solid azure;
+    background-color: rgba(165, 42, 42, 0.399);
+
+}
+
